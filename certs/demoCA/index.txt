@@ -1,0 +1,3 @@
+V	200722145005Z		86C36C34645E4C32	unknown	/C=KR/ST=Seoul/L=Seoul/O=rsa cert/OU=rsa/CN=*.rsa.com/emailAddress=rsa@rsa.com
+V	200728073553Z		86C36C34645E4C33	unknown	/C=KR/ST=Seoul/L=Seoul/O=mmlab/OU=mmlab/CN=pub.mmlab.snu.ac.kr/emailAddress=pub@mmlab.snu.ac.kr
+V	200728073607Z		86C36C34645E4C34	unknown	/C=KR/ST=Seoul/L=Seoul/O=mmlab/OU=mmlab/CN=sub.mmlab.snu.ac.kr/emailAddress=sub@mmlab.snu.ac.kr
